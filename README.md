@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Karan Arora</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arorakaran19&label=Profile%20views&color=0e75b6&style=flat" alt="arorakaran19" /> </p>
 
 - 🌱 I’m currently learning **C++, JS**
 
