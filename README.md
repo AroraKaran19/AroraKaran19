@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karan Arora</h1>
 
+- Third Year BCA student
+
 - 🌱 I’m currently learning **C++, JS**
 
 - 📫 How to reach me **karora0319@gmail.com**
