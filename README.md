@@ -10,7 +10,7 @@
 
 <br>
 
-Hi, I am Karan Arora, I'm currently a student pursuing my Bachelor of Computer Applications from GGSIPU(VIPS), Delhi 🧑‍🎓. When I'm not developing and coding, you can find me watching Netflix, Gaming or listening to music.
+Hi, I am Karan Arora, I'm currently a student pursuing my Bachelor of Computer Applications from GGSIPU(VIPS), Delhi 🧑‍🎓. When I'm not developing and coding, you can find me watching Netflix, Gaming or listening to music. Currently working as Senior Executive Intern in Content Writing at [You Got Brains](https://yougotbrains.com).
 
 <br>
 
