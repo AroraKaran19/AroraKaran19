@@ -2,9 +2,9 @@
 
 <br>
 
-[![](https://visitcount.itsvg.in/api?id=AroraKaran19&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AroraKaran19" alt="AroraKaran19" /> </p>
 
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/arorakaran19" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/twitter.png?raw=true" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/arorakaran19/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/arorakaran19/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -14,9 +14,12 @@
 <p align="center">Hi, I am Karan Arora, I'm currently a student pursuing my Bachelor of Computer Applications from GGSIPU(VIPS), Delhi 🧑‍🎓. When I'm not developing and coding, you can find me watching Netflix, Gaming or listening to music. Currently working towards learning Front-End Development.</p>
 
 <br>
+<div align="center">
+  
+ 📫 How to reach me: [karora0319@gmail.com](mailto:karora0319@gmail.com) <br>
+ 🔗 My website: [https://bit.ly/codewithk](https://bit.ly/codewithk)
 
-- 📫 How to reach me: [karora0319@gmail.com](mailto:karora0319@gmail.com)
-- 🔗 My website: [https://bit.ly/codewithk](https://bit.ly/codewithk)
+</div>
 
 <br>
 
