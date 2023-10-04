@@ -33,7 +33,8 @@
 <h2 align="center"> Github Stats 📊 </h2>
 <div style="display:inline-block;">
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=AroraKaran19&theme=react&hide_border=true&include_all_commits=true&count_private=true" /> 
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=AroraKaran19&theme=react&hide_border=true&include_all_commits=true&count_private=true" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AroraKaran19&show_icons=true&theme=radical" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AroraKaran19&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
