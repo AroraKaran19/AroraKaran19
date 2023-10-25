@@ -11,7 +11,7 @@
 
 <br>
 
-<p align="center">Hi, I am Karan Arora, I'm currently a student pursuing my Bachelor of Computer Applications from GGSIPU(VIPS), Delhi 🧑‍🎓. When I'm not developing and coding, you can find me watching Netflix, Gaming or listening to music. Currently working towards learning Front-End Development.</p>
+<p align="center">Hi, I am Karan Arora, I'm currently a student pursuing my Bachelor of Computer Applications from GGSIPU(VIPS), Delhi 🧑‍🎓. When I'm not developing and coding, you can find me watching Netflix, Gaming or listening to music. Currently working towards learning Android Development.</p>
 
 <br>
 <div align="center">
