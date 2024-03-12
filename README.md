@@ -17,7 +17,7 @@
 <div align="center">
   
  📫 How to reach me: [karora0319@gmail.com](mailto:karora0319@gmail.com) <br>
- 🔗 My website: [https://arorakaran19.github.io](https://arorakaran19.github.io/)
+ 🔗 My website: [arorakaran19.github.io](https://arorakaran19.github.io/)
 
 </div>
 
